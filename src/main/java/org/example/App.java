@@ -20,6 +20,8 @@ public class App
 
         Subtask8.run();
 
+        Subtask9.run();
+
         Subtask13.run();
     }
 

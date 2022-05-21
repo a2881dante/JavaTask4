@@ -4,7 +4,7 @@ import java.util.HashSet;
 import java.util.Set;
 
 /*
- * Задать два стека, поменять информацию местами.
+ * 6. Задать два стека, поменять информацию местами.
  */
 public class Subtask6 {
 
