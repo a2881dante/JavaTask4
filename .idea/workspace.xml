@@ -4,10 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="27f6cca5-82eb-458b-83d0-41859157712c" name="Changes" comment="Build: Add subtask 4&#10;&#10;Создать стек из номеров записи. Организовать прямой доступ к элементам записи.">
+    <list default="true" id="27f6cca5-82eb-458b-83d0-41859157712c" name="Changes" comment="Build: Add subtask 5&#10;&#10;Занести стихотворения одного автора в список. Провести сортировку по возрастанию длин строк.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/org/example/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/subtasks/Subtask5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/subtasks/Subtask5.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -97,7 +97,14 @@
       <option name="project" value="LOCAL" />
       <updated>1653153499459</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Build: Add subtask 5&#10;&#10;Занести стихотворения одного автора в список. Провести сортировку по возрастанию длин строк.">
+      <created>1653155616316</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1653155616316</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -116,6 +123,7 @@
     <MESSAGE value="Build: Add subtask 1&#10;&#10;Ввести строки из файла, записать в список. Вывести строки в файл в обратном порядке." />
     <MESSAGE value="Build: Add subtask 2&#10;&#10;Ввести число, занести его цифры в стек. Вывести число, у которого цифры идут в обратном порядке." />
     <MESSAGE value="Build: Add subtask 4&#10;&#10;Создать стек из номеров записи. Организовать прямой доступ к элементам записи." />
-    <option name="LAST_COMMIT_MESSAGE" value="Build: Add subtask 4&#10;&#10;Создать стек из номеров записи. Организовать прямой доступ к элементам записи." />
+    <MESSAGE value="Build: Add subtask 5&#10;&#10;Занести стихотворения одного автора в список. Провести сортировку по возрастанию длин строк." />
+    <option name="LAST_COMMIT_MESSAGE" value="Build: Add subtask 5&#10;&#10;Занести стихотворения одного автора в список. Провести сортировку по возрастанию длин строк." />
   </component>
 </project>

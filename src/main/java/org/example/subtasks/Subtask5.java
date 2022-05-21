@@ -5,11 +5,12 @@ import java.io.FileWriter;
 import java.io.IOException;
 import java.util.ArrayList;
 import java.util.Comparator;
-import java.util.Iterator;
 import java.util.Scanner;
 
 /*
  * 5. Занести стихотворения одного автора в список. Провести сортировку по возрастанию длин строк.
+ * 12. Ввести строки из файла, записать в список ArrayList. Выполнить сортировку строк,
+ * используя метод sort() из класса Collections.
  */
 public class Subtask5 {
     public static void run() {
