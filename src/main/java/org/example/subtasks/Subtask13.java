@@ -15,7 +15,7 @@ import java.util.Set;
 public class Subtask13 {
 
     public static void run() {
-        System.out.println("Subtask 7:");
+        System.out.println("Subtask 13:");
         Set<String> uniqueWords = new HashSet<>();
         try {
             String text = String.valueOf(
