@@ -23,5 +23,6 @@ public class Subtask2 {
         while(iterator.hasPrevious()) {
             System.out.print(iterator.previous());
         }
+        System.out.println("\n\n=========================\n");
     }
 }

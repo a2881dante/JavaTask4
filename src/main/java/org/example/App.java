@@ -2,6 +2,7 @@ package org.example;
 
 import org.example.subtasks.Subtask1;
 import org.example.subtasks.Subtask2;
+import org.example.subtasks.Subtask4;
 
 public class App
 {
@@ -10,6 +11,8 @@ public class App
         Subtask1.run();
 
         Subtask2.run();
+
+        Subtask4.run();
     }
 
     /*
@@ -32,7 +35,7 @@ public class App
         11. Не используя вспомогательных объектов, переставить отрицательные элементы данного
         списка в конец, а положительные — в начало списка.
         12. Ввести строки из файла, записать в список ArrayList. Выполнить сортировку строк,
-        используяметод sort() из класса Collections.
+        используя метод sort() из класса Collections.
         13. Задан файл с текстом на английском языке. Выделить все различные слова. Слова,
         отличающиеся только регистром букв, считать одинаковыми.
      */

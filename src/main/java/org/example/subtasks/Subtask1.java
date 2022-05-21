@@ -34,6 +34,7 @@ public class Subtask1 {
         } catch (IOException ioException) {
             System.out.println(ioException.getMessage());
         }
+        System.out.println("\n=========================\n");
     }
 
 }
