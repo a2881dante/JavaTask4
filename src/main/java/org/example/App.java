@@ -3,6 +3,7 @@ package org.example;
 import org.example.subtasks.Subtask1;
 import org.example.subtasks.Subtask2;
 import org.example.subtasks.Subtask4;
+import org.example.subtasks.Subtask5;
 
 public class App
 {
@@ -13,13 +14,12 @@ public class App
         Subtask2.run();
 
         Subtask4.run();
+
+        Subtask5.run();
     }
 
     /*
         3. Создать список из элементов каталога и его подкаталогов.
-        4. Создать стек из номеров записи. Организовать прямой доступ к элементам записи.
-        5. Занести стихотворения одного автора в список. Провести сортировку по возрастанию длин
-        строк.
         6. Задать два стека, поменять информацию местами.
         7. Определить множество на основе множества целых чисел. Создать методы для
         определения
