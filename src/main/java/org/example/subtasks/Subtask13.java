@@ -22,8 +22,12 @@ public class Subtask13 {
                     Files.readAllLines(
                             Paths.get("assets/subtask_13.txt"),
                             StandardCharsets.UTF_8));
-            String[] words = text.split("\\s");
+            String[] words = text
+                    .replaceAll("[^a-zA-Z ]", "")
+                    .toLowerCase()
+                    .split("\\s");
             uniqueWords.addAll(Arrays.asList(words));
+
             System.out.println("All words: " + words.length);
             System.out.println("Unique words: " + uniqueWords.size());
         } catch (IOException e) {
