@@ -4,10 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="27f6cca5-82eb-458b-83d0-41859157712c" name="Changes" comment="Build: Add subtask 6&#10;&#10;Задать два стека, поменять информацию местами.">
+    <list default="true" id="27f6cca5-82eb-458b-83d0-41859157712c" name="Changes" comment="Build: Add subtask 9&#10;&#10;Сложить два многочлена заданной степени, если коэффициенты многочленов хранятся в объекте HashMap.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/org/example/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/App.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/subtasks/Subtask6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/subtasks/Subtask6.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/subtasks/Subtask13.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/subtasks/Subtask13.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -132,7 +132,14 @@
       <option name="project" value="LOCAL" />
       <updated>1653161284461</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Build: Add subtask 9&#10;&#10;Сложить два многочлена заданной степени, если коэффициенты многочленов хранятся в объекте HashMap.">
+      <created>1653164113946</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1653164113946</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -156,6 +163,7 @@
     <MESSAGE value="Build: Add subtask 13&#10;&#10;Задан файл с текстом на английском языке. Выделить все различные слова. Слова, отличающиеся только регистром букв, считать одинаковыми." />
     <MESSAGE value="Build: Add subtask 8&#10;&#10;С использованием множества выполнить попарное суммирование произвольного конечного ряда чисел по следующим правилам: на первом этапе суммируются попарно рядом стоящие числа,на втором этапе суммируются результаты первого этапа и т. д. до тех пор, пока не останется одночисло." />
     <MESSAGE value="Build: Add subtask 6&#10;&#10;Задать два стека, поменять информацию местами." />
-    <option name="LAST_COMMIT_MESSAGE" value="Build: Add subtask 6&#10;&#10;Задать два стека, поменять информацию местами." />
+    <MESSAGE value="Build: Add subtask 9&#10;&#10;Сложить два многочлена заданной степени, если коэффициенты многочленов хранятся в объекте HashMap." />
+    <option name="LAST_COMMIT_MESSAGE" value="Build: Add subtask 9&#10;&#10;Сложить два многочлена заданной степени, если коэффициенты многочленов хранятся в объекте HashMap." />
   </component>
 </project>
